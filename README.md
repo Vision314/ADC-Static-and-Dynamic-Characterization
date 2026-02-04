@@ -1,5 +1,5 @@
 ## 📄 Read the Paper
 
-👉 **[Click here to read the full paper](https://github.com/Vision314/ADC-Static-and-Dynamic-Characterization.git)**
+👉 **[Click here to read the full paper](https://vision314.github.io/ADC-Static-and-Dynamic-Characterization/)**
 
 (The paper opens inline and is fully scrollable.)
