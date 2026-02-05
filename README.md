@@ -1,7 +1,7 @@
 
 
 # Determining Static and Dynamic Characteristics of a Flash ADC
-## **[Click here to read the full paper](https://vision314.github.io/ADC-Static-and-Dynamic-Characterization/)**
+## **[Click here to read the paper as a PDF!](https://vision314.github.io/ADC-Static-and-Dynamic-Characterization/)**
 
 **Author:** Francesco Marrocco  
 **Advisor:** Suat Ay  
